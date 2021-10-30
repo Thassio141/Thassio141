@@ -1,7 +1,7 @@
 ### Eae 👋
 
 - 🔭 Procurando oportunidades de estágio.
-- 🌱 Estudando python.
+- 🌱 Estudando Python e C#
 - 👯 Gostaria de colaborar em projetos de programação no geral.
 
 <div>
