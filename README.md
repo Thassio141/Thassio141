@@ -1,7 +1,7 @@
 ### Eae 👋
 
-- 🔭 Procurando oportunidades de estágio.
-- 🌱 Conhecimento em Python, MySQL e Git.
+- 🔭 Procurando oportunidades de trabalho.
+- 🌱 Conhecimento em Python, Django, MySQL e Git.
 - 👯 Gostaria de colaborar em projetos de programação no geral.
 
 <div>
