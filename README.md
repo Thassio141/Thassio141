@@ -1,7 +1,7 @@
 ### Eae 👋
 
 - 🔭 Procurando oportunidades de trabalho.
-- 🌱 Conhecimento em Python, Django, MySQL e Git.
+- 🌱 Conhecimento em Python, Django, SQL, Machine Learning e Git.
 - 👯 Gostaria de colaborar em projetos de programação no geral.
 
 <div>
