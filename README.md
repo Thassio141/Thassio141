@@ -2,18 +2,13 @@
 
 - 🔭 Procurando oportunidades de trabalho.
 - 🌱 Conhecimento em Python, Django, SQL, Machine Learning e Git.
-- 👯 Gostaria de colaborar em projetos de programação no geral.
 
-<div>
-  <a href="https://github.com/Thassio141">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thassio141&show_icons=true&theme=github_dark&incluede_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thassio141&layout=compact&langs_count=16&theme=github_dark" />
-</div>
-
-<div style="display: inline_block"><br>
-  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-
-</div>
-
-##
+## Contato
+<a href = "https://www.instagram.com/" targe="_blank">
+<img align="center" alt="thassio-instagram" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"
+style="max-width:100%;">
+  
+<a href = "https://www.linkedin.com/in/th%C3%A1ssio-vagner-6098a5215/" targe="_blank">
+<img align="center" alt="thassio-Linkedin" height="50" width="50" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+style="max-width:100%;">
