@@ -1,4 +1,4 @@
-### Eae 👋
+### Olá, meu nome é Thássio
 
 - 🔭 Procurando oportunidades de trabalho.
 - 🌱 Conhecimento em Python, Django, SQL, Machine Learning e Git.
