@@ -21,7 +21,7 @@ width:100%;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="rails" width="50" height= "60" style="max-width:100%;">
 
 ## Frameworks
-<img src= "raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/django/django-plain-wordmark.svg" width="50" height= "60" style="max-
+<img src= "https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/django/django-plain-wordmark.svg" width="50" height= "60" style="max-
 width:100%;">
 
   
