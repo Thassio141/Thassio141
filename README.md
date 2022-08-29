@@ -1,7 +1,7 @@
 ### Olá, meu nome é Thássio
-
-- 🔭 Procurando oportunidades de trabalho.
-- 🌱 Conhecimento em Python, Django, SQL, Machine Learning e Git.
+- Moro em Aracaju-SE, Brasil
+- 🔭 Procurando oportunidades para aprimorar meu conhecimento.
+- 🌱 Tenho conhecimento em Python, Django, SQL, Machine Learning e Git.
 
 ## Contato
 <a href = "https://www.instagram.com/" targe="_blank">
