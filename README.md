@@ -9,7 +9,7 @@
 <img align="center" alt="thassio-instagram" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"
 style="max-width:100%;">
   
-<a href = "www.linkedin.com/in/thassio-vagner-38a606345" targe="_blank">
+<a href = "https://www.linkedin.com/in/thassio-vagner-38a606345/" targe="_blank">
 <img align="center" alt="thassio-Linkedin" height="50" width="50" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
 style="max-width:100%;">
