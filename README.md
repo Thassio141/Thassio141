@@ -11,7 +11,7 @@ style="max-width:100%;">
   
 <a href = "www.linkedin.com/in/thassio-vagner-38a606345" targe="_blank">
 <img align="center" alt="thassio-Linkedin" height="50" width="50" 
-src="www.linkedin.com/in/thassio-vagner-38a606345"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
 style="max-width:100%;">
   
 ## Skills
