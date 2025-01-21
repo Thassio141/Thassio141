@@ -1,7 +1,7 @@
 ### Olá, meu nome é Thássio
 - Moro em Aracaju-SE, Brasil
 - Procurando oportunidades para aprimorar meu conhecimento.🔭
-- Tenho conhecimento em Python, Django, SQL, Machine Learning e Git.🌱 
+- Tenho conhecimento em Python, Django, SQL,  Java , Kotlin e Spring boot e Git.🌱 
 - Estudo na Universidade Tiradente - Sergipe.
 
 ## Contato
