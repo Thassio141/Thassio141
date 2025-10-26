@@ -23,11 +23,11 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 ### Testes & DevOps
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" alt="Junit" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" />
 
-## 📊 Minhas Estatísticas no GitHub
+<!-- ## 📊 Minhas Estatísticas no GitHub -->
 
-<p align="center">
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thassio141&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub de Thássio" />
-  <br/> -->
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thassio141&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens Mais Usadas" />
-  <br/><br/> -->
-</p>
+<!-- <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thassio141&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub de Thássio" />
+  <br/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thassio141&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens Mais Usadas" />
+  <br/><br/>
+</p> -->
