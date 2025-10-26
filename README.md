@@ -1,33 +1,44 @@
-### Olá, meu nome é Thássio
-- Moro em Aracaju-SE, Brasil
-- Procurando oportunidades para aprimorar meu conhecimento.🔭
-- Tenho conhecimento em Python, Django, SQL,  Java , Kotlin e Spring boot e Git.🌱 
-- Estudo na Universidade Tiradente - Sergipe.
+### Olá, eu sou o Thássio! 👋
 
-## Contato
-<a href = "https://www.instagram.com/" targe="_blank">
-<img align="center" alt="thassio-instagram" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"
-style="max-width:100%;">
-  
-<a href = "https://www.linkedin.com/in/thassio-vagner-38a606345/" targe="_blank">
-<img align="center" alt="thassio-Linkedin" height="50" width="50" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-style="max-width:100%;">
-  
-## Skills
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="rails" width="50" height= "60" style="max-
-width:100%;">
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="rails" width="50" height= "60" style="max-
-width:100%;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="rails" width="50" height= "60" style="max-width:100%;">
+Sou Desenvolvedor de Software de Aracaju-SE, formado em Ciências da Computação pela UNIT. 
 
+Meu foco principal é no desenvolvimento **Backend** com o ecossistema Java/Kotlin (utilizando Spring Boot) e no **Frontend** com React e TypeScript. Estou sempre buscando aplicar as melhores práticas de desenvolvimento, incluindo testes automatizados (com Junit e Mockito) e cultura DevOps (com Docker).
 
-## Frameworks
-<img src= "https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/django/django-plain-wordmark.svg" width="50" height= "60" style="max-
-width:100%;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="rails" width="50" height= "60" style="max-width:100%;">
+<p align="left">
+  <a href="https://www.linkedin.com/in/thassio-vagner-38a606345/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="thassio-Linkedin" height="40" width="40" />
+  </a>
+</p>
 
+## 🛠️ Tecnologias e Ferramentas
 
-  
-<p align="center"> Quantidade de visitas no perfil </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Thassio141/count.svg" /></p>
+Aqui estão algumas das tecnologias com as quais tenho trabalhado:
+
+### Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" />
+
+### Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" />
+
+### Testes & DevOps
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" alt="Junit" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" />
+
+## 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thassio141&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Thássio" />
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thassio141&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens Mais Usadas" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Thassio141/count.svg" alt="Contador de Visitas" />
+</p>
